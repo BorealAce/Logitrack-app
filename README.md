@@ -2,6 +2,12 @@
 
 Aplicativo móvel para gerenciamento e monitoramento de robôs logísticos, desenvolvido com React Native e Expo.
 
+# Integrantes
+- Erick Santos Santana RM: 559206
+- Gabriel Borges Gonçalves Silva RM: 55861
+- Rodrigo Vinzent Arinez Viscarra RM: 559192
+- Tarik Omar Mazloum RM: 554933
+
 ## Requisitos
 
 - Node.js (versão 14 ou superior)

@@ -67,14 +67,22 @@ src/
 - Axios
 - AsyncStorage
 
-## Contribuição
+## Alinhamento
+1. Novas telas adicionadas:
+- RegisterScreen (Cadastro de usuário)
+- UserManagementScreen (Administração de usuários)
+- EditUserScreen (Edição de usuário)
+- RegisterUserScreen (Cadastro de usuário pelo admin)
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
+2. Funcionalidade de Edição de Usuário
+- Implementação da tela EditUserScreen.js para editar dados do usuário, inclusive senha (opcional).
+- Novo serviço updateUser em authService.js para atualizar dados do usuário via API.
 
-## Licença
+3. Aprimoramento do ProfileScreen
+- ProfileScreen.js agora carrega dados do usuário do AsyncStorage e exibe nome, email, etc.
+- Botão de logout com confirmação.
 
-Este projeto está licenciado sob a licença 0BSD - veja o arquivo [LICENSE](LICENSE) para detalhes. 
+4. Novas funcionalidades
+- Cadastro de usuário.
+- Edição de usuário.
+- Gestão de usuários para administradores.

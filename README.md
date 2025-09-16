@@ -4,7 +4,7 @@ Aplicativo móvel para gerenciamento e monitoramento de robôs logísticos, dese
 
 # Integrantes
 - Erick Santos Santana RM: 559206
-- Gabriel Borges Gonçalves Silva RM: 55861
+- Gabriel Borges Gonçalves Silva RM: 558861
 - Rodrigo Vinzent Arinez Viscarra RM: 559192
 - Tarik Omar Mazloum RM: 554933
 
